@@ -4,7 +4,7 @@ title: "(WIP) Discussion: In the Name of Religion"
 category: discussion
 ---
 
-Here's a more sensitive, touchy one. On the matter of religion.
+Here's a more sensitive, touchy one. On the matter of religion and what we would do for it.
 
 # A. In the Name of Religion's Righteousness
 Religion taught us the ways of life that is judged to be good, with principles that would better humanity. And as such, we all strive to act on these principles and to behave accordingly. Naturally, religion is akin to righteousness itself. Then, it is also only natural that anything we do in the name of religion, we believe that we do so for the greater good. Reality couldn't be any further than that, because just how much have we messed for what we have done in the name of religion? 
