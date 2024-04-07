@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<h2>Introduction to this Place</h2>
+<br>Welcome to Showerthoughts, or as how I named it, Archimedes Wasting Water. Showerthoughts, but long, thus a longer bath, if it makes sense. For posts, please scroll down to the "Posts" header. For trivia, go to "About" (top right corner). <b>Please note that everything written here is my own and personal perspective, which is NOT affiliated with any organisations that I may be associated with.</b></br>
+
+<br>Simply put, these are showerthoughts, but longer in the forms of analyses and discussion. Of course, my opinions are just that, opinions, so anyone could agree or disagree with me. Do note that I rarely revise those posts after they have been written, since I always write based on my train of thoughts at the time. Please excuse me for the lack of structures or the irrelevancy of certain topics.</br>
+
+<br>A few words, I think life is absurd, and if we see the irony and absurdism in it, we would most likely find it funny. And since so many things don't make sense, we need not so much as to despair over it but to be ourselves. Perhaps we don't understand why others wronged us, and that we may hated the universe's indifference toward us, but eventually we just have to face that everything does not go how we want, and with how absurd it all is, we are forced to confront it. As such I would not really hesitate to discuss philosophical or religious topics in general.</br>
+
+<br>Sometimes life feels like nothing works out, and we don't really know why we're doing it. But instead of being sad or giving up, we can just laugh and have fun and enjoy the journey, because everything is also an experience. Let it sink in and one day in the future, we can all reflect back to it. For me personally, it's about making the best out of what we have here, even if things fail. It doesn't hurt to be a bit more idealistic, or to revolt against absurdism.</br>
+
+<br>One may say that absurdism embraces the meaninglessness of existence, and that it may contradicts the whole idea of our purpose as God has put us here. Who knows, maybe a thousand years later we realise that our current practices are not acceptable to God at all! But hey, the fact that I'm a Catholic speaking about absurdism is pretty absurd in itself.  It is said everyone is only normal until you get to know them. In the end, there is simply a lot to laugh about.</br>
+
+<br>Yes, I like reading Franz Kafka and Albert Camus, and a lot of my thoughts are inspired or in line with their philosophies. I do try to cite related philosophies for the sake of completeness, and the fact that I also did my research. At the same time, I hope this doesn't sound like I am just picking up philosophies based on whatever I read because it's "cool", but simply because I think I have finally found a suitable label to my ways of thinking since I was a kid. This blog is just a place where I hope to understand myself better.</br>
+
+<br>As much as I despise how I only ever get inspirations whenever something negative happened that made me stop and think, maybe the ups and downs are how things should be. You might noticed that I use sentences starting with "I something something" often, and although someone has repeatedly told me that it sounds self-centered, I just thought it is the easiest sentence structure to express what comes from myself and what comes from others.</br>
+
+<div class="posts">
+  <h1> Posts </h1>
+{% for post in site.posts %}
+   <ul class="post">
+  
+      {{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+    
+    </ul>
+  {% endfor %}
+</div>
