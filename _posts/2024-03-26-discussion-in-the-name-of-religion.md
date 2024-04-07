@@ -13,7 +13,7 @@ Some can become zealous and the extreme end of the spectrum would be those that 
 
 People seek to be right, and since religions contain the tenets of righteousness, naturally people hope to become righteous through their own faith. Indeed, it is a very good work if done in a balanced manners. When we speak of God, we speak of faith which is an extremely personal matter to us. In expressing our faith we believe that we are the righteous, and in preaching to others we hope to assert and prove that our stance is also a correct one. In a position of such precondition even before we have ever said a word, I believe that it is therefore extremely difficult to identify our own biases and flaws. 
 
-To speak of religion is to also speak from a (spiritually) higher pedestal to the one conversing with us. In fact, I think there is a slight moral obligation that incentivise us to pay closer attentions to anything that directly relates to religious doctrine, and because the precondition is that such doctrine is good, then we also are more likely to believe in what was said to us unless we are to become even more critical in our thinking.
+To speak of religion is to also speak from a (spiritually) higher pedestal to the one conversing with us. In fact, I think there is a slight moral obligation that incentivise us to pay closer attentions to anything that directly relates to religious doctrine, and because the precondition is that such doctrine is good, then we also are more likely to believe in what was said to us unless we are to become even more critical in our thinking. And because we ourselves are aware of our supposed righteousness when speaking of God, we too must become even more cautious with our words, less we spread misinformation.
 
 # B.
 # C. 
