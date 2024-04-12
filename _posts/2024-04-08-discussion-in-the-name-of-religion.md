@@ -15,5 +15,9 @@ People seek to be right, and since religions contain the tenets of righteousness
 
 To speak of religion is to also speak from a (spiritually) higher pedestal to the one conversing with us. In fact, I think there is a slight moral obligation that incentivise us to pay closer attentions to anything that directly relates to religious doctrine, and because the precondition is that such doctrine is good, then we also are more likely to believe in what was said to us unless we are to become even more critical in our thinking. And because we ourselves are aware of our supposed righteousness when speaking of God, we too must become even more cautious with our words, less we spread misinformation.
 
-# B.
+# B. The Non-Negotiable Nature of Faith
+Faith is non-negotiable, both in the good an bad ways, I believe. It is non-negotiable for the faithful, in that it is the centre of their life. A family with God as the centre of it is a holy family. Not just a walk of life but something you can't simply take up and then throw away. Generally speaking, faith guide people toward imitation of Christ in his goodness, and here I speak of the Catholic faith alone. Of course we also have the more misguided ones too.
+
+And although the presence of faith should be non-negotiable in their life, I think faith can make someone non-negotiable. If someone believes they are doing something in the name of God and religion, it's rather hard to convince them otherise
+
 # C. 
