@@ -18,6 +18,6 @@ To speak of religion is to also speak from a (spiritually) higher pedestal to th
 # B. The Non-Negotiable Nature of Faith
 Faith is non-negotiable, both in the good an bad ways, I believe. It is non-negotiable for the faithful, in that it is the centre of their life. A family with God as the centre of it is a holy family. Not just a walk of life but something you can't simply take up and then throw away. Generally speaking, faith guide people toward imitation of Christ in his goodness, and here I speak of the Catholic faith alone. Of course we also have the more misguided ones too.
 
-And although the presence of faith should be non-negotiable in their life, I think faith can make someone non-negotiable. If someone believes they are doing something in the name of God and religion, it's rather hard to convince them otherise
+And although the presence of faith should be non-negotiable in their life, I think faith can make someone non-negotiable. If someone believes they are doing something in the name of God and religion, it's rather hard to convince them otherise. Sometimes what they do is right, and sometimes it's wrong. But if everything is placed under the umbrella of faith, then where is the line that distinguishes between the two?
 
 # C. 
