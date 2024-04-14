@@ -14,6 +14,9 @@ I dare not diagnose myself, and I would really love to see a neuropsychologist o
 Whether or not I’m diagnosed with autism (or Asperger’s) is of little importance other than to understand myself better. If anything, I do like the fact that there are other individuals on the spectrum that I could relate to.
 
 So far, I do have quite a few traits on the spectrum. Odd intonation or inability to even recognise intonation at all. Odd speech patterns that go round and round with metaphor simply because I wanted to be precisely accurate. Terribly blunt that it’s probably rude sometimes. Hyperfixation on certain things to the point it’s unhealthy. Getting too absorbed into one thing and forgetting everything else. I like to do things by myself. Get frustrated when my schedule gets disturbed by others. Sometimes I take things too literally. I really can’t tell what people feel. I can’t pick up social cues. Always feel slightly agitated and can’t help but fidget around, not being able to stand or sit still. Hyperactivity, only able to sit still when extremely focused, or else my mind jumps everywhere. Socially awkward. Hate social situations, even at parties I just sit there like a duck. Can’t hold small conversations and am always highly distracted if I’m not interested in the matters at hand.
+
+I do remember that as a kid, I used to read a lot of manga (I still do), particularly Detective Conan. Back then I used to count the number of words in multiple of five, and that continues until I forget where I was at, before recounting again. Or sometimes I would encounter random phrases, then I would close my eyes and try my hardest at remember the phrase or sentence word-by-word. That tendency still remain with me for some reasons.
+
 Unfortunately, we have certain traits that others won't understand about us. Misunderstandings are common.
 
 Still, I believe it is what allowed me to be a funny person. 
