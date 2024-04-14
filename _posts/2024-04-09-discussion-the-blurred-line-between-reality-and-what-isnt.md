@@ -4,6 +4,7 @@ title: "(WIP) Discussion: The Blurred Line Between Reality and What Isn't"
 category: discussion
 ---
 
+Perhaps this is a reason why everything feels like a dream to me.
 
 # A. On Perception and Reality
 There exists an objective reality that is completely independent of our perception. Our perceptions give us our very own reality, and it simply is how our brain translates the stimuli that we receive from that reality. And therefore, our perceptions are not reality. Let that be the premise.
@@ -40,3 +41,10 @@ Opportunities, time, feelings, social statuses, you name it. Someone told me tha
 It is for this very reason that I was many time criticised for not understanding how valuable the opportunities that I have are. Admittedly, a lot of them were unfamiliar which I cannot form any connections with. I do not understand why. Because even if there is a chance that I lose everything I have, I simply cannot imagine it. That which can't be visualised cannot be. Because I know that the moments I lose something, they become intangible, something that exist entirely within my mind. And if they are withheld in a mind that could project virtually anything on top of reality, then did I really lose anything? If it was an opportunity I never have, then what matters if I do not have it? Because again, I could not have visualised it. It is precisely this blurred line between reality and everything else that really reduce any value that something may have to nothingness.
 
 A dangerous place, is it not? It begs the question of the importance of reality versus our perception of it. If the mind could replace and project anything, then why would reality be necessary when even the reality around us could be altered? The mind never remembers reality to begin with, but only the perceptions that arrived through the lenses that make up a person. 
+
+In some ways, this is a blessing in disguise. The lack of attachments and the inability to see tangible value in anything also mean I'm less attached to the material world. I have known that money and other things could drive people crazy, and to be honest, the reality is that we need to have resources to live. So I could see how money could be a big part. Still, I have a hard time accepting something if I have no use for it. Maybe in this way, I am a bit more resilient against the tempetations of material needs? I mean, I really don't know what to do with large amount of money, and why I should be in luxury if whatever I have is already enough. Of course this sort of thinking is going against the idea of improving one's life, but those just look excessive and unnecessary to me.
+
+# E. Is This the End?
+For now, this is enough discussion. All I want to say is that life has never felt very tangible to me. And yet here I am, living in the moment, feelings the emotions as they come and go, being as real as I could ever get. It is absurd for someone who is so detached, while many others struggled either in their past or future. Or perhaps it is more simple, that because reality is too overwhelming that they get lost. And for those who are detached, reality becomes a single point of focus, that is the present. 
+
+Many have argued that perception isn't reality, and by this, reality as in what actually happened. But to a person, I do believe their perception is THEIR reality alone. I might be so brave as to say that 
