@@ -3,13 +3,13 @@ layout: post
 title: "Discussion: The Myth of Sisyphus - On Philosophical Suicide"
 category: Discussion
 ---
-<!-- Word count: 4,394 -->
+<!-- Word count: 4,397 -->
 
 For those who are familiar with the concept of 'absurdism', mainly attributed to the French philosopher Albert Camus, one would be presented with "The absurdity of existence raises the question of suicide and the meaning of life" being the only serious philosophical problem, "judging whether life is or is not worth living amounts to answering the fundamental question of philosophy". In his work *The Myth of Sisyphus* ([Source][sisyphus]), Camus decried that a "leap of faith", that is, religion as a solution to the absurd, would be considered a "philosophical suicide". In this sense religion is represented as an end, or an inexplainable solution that leads a person to no longer revolt against the absurd, to find meaning despite the inherent meaninglessness of the universe. However here I propose that religion may be approached as a means or a process instead of an end to strive for. One does not simply seek faith simply to find the meaning of life, but perhaps as a navigational tool only.
 
 I would recommend that the essay _The Myth of Sisyphus_ be read first to better understand this school of thought. On another hand, I would also like to note that I simply did not adopt the philosophy after reading about it, but simply found a label to my typical train of thought. Double quotations are used specifically in section A to denote actual passages or sentences from the essay, as it better describes the philosophy than I can.
 
-Here is a free PDF of the essay: https://www2.hawaii.edu/~freeman/courses/phil360/16.%20Myth%20of%20Sisyphus.pdf
+Here is a free PDF of the first part of the essay (An Absurd Reasoning): https://www2.hawaii.edu/~freeman/courses/phil360/16.%20Myth%20of%20Sisyphus.pdf
 
 # A. Absurdism, and the Notion of "Philosophical Suicide"
 Generally speaking, humans seek happiness, and reason (understanding of the world around them). Albert Camus thus says "The absurd is born of the confrontation between the human need and the unreasonable silence of the world." ([Source][sisyphus]). Because "the world itself is not reasonable, and "what is absurd is the confrontation of this irrational and the wild longing for clarity whose call echoes in the human heart". At least for myself who have always sought to understand, this reality is even more prominent. It makes sense for individuals to have certain ideals or approaches that they uphold, so to speak, throughout their lives. Some seek to solve problems, whether it be within a certain expertise or interpersonal matters. To them, it would be useless to simply seek to "understand", as I do, without doing anything about it. I suppose I'm just slightly more curious than others.
