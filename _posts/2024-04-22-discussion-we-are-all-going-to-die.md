@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We Are All Going to Die"
+title: "(WIP) We Are All Going to Die"
 category: discussion
 ---
 
