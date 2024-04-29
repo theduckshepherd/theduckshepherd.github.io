@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(WIP) Discussion: In the Name of Religion"
+title: "Discussion: In the Name of Religion"
 category: discussion
 ---
 
