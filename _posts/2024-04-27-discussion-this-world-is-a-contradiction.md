@@ -29,3 +29,6 @@ In saving someone we turn our back against others. In upholding absolute, univer
 
 On another note, I grew up in a pretty odd family too as a tiny kid. We did not have issues expressing affection, but when we are apart it simply become a matter of "out of sight, out of mind". We are aware of each other's existence, and none of us pushed or complained about whether or not enough hugs or kisses were given in the day. As natural as it was, I grew up without knowing how one is supposed to express affection to family members, which did eventually cause unprecendented misunderstanding. Certain people around me condemned me for seemingly too emotionless and uncaring, and at the time I thought that the way I was raised was not right. But in the end that kind of background became one of the greatest gift I had been given in my life. Precisely because of it that I have never been able to go out of control, and remain objective all the way through. I dare say that it is also in my nature that I grew up a bit more inquisitive. One never know something might be a blessing in disguise.
 
+# C.
+The components of the world are interconnected. Unironically, even though we have substance, 99% of atoms is a vacuum. The universe that seemingly look like a void 
+
