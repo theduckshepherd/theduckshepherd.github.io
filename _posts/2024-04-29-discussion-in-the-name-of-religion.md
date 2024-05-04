@@ -4,7 +4,7 @@ title: "Discussion: In the Name of Religion"
 category: discussion
 ---
 
-<!-- Word count: 1,347 words-->
+<!-- Word count: 1,242 words-->
 
 Here's a more sensitive, touchy one. On the matter of religion and what we would be willing to do for it.
 
@@ -17,7 +17,7 @@ People seek to be right, and since religions contain the tenets of righteousness
 
 To speak of religion is to also speak from a (spiritually) higher pedestal than the one conversing with us. In fact, I think there is a slight moral obligation that incentivizes us to pay closer attention to anything that directly relates to religious doctrine, and because the precondition is that such doctrine is good, we are also more likely to believe in what was said to us unless we become even more critical in our thinking. And because we ourselves are aware of our supposed righteousness when speaking of God, we too must become even more cautious with our words, lest we spread misinformation.
 
-#B. The Non-Negotiable Nature of Faith
+# B. The Non-Negotiable Nature of Faith
 Faith is non-negotiable, both in good and bad ways, I believe. It is non-negotiable for the faithful, in that it is the centre of their life. The theoretical doctrine of faith is non-negotiable as it directly relates to humanity's concept of morality, our moral guidepost. A family with God at its centre is a holy family. Not just a walk of life, but something you can't simply take up and then throw away. Generally speaking, faith guides people towards imitation of Christ in his goodness, and here I speak of the Catholic faith alone. Of course, we also have the more misguided ones.
 
 And although the presence of faith should be non-negotiable in their life, I think faith can make someone non-negotiable. If someone believes they are doing something in the name of God and religion, it's rather hard to convince them otherwise, especially if they are a particularly strong-willed person. Sometimes what they do is right, and sometimes it's wrong. But if everything is placed under the umbrella of faith, then where is the line that distinguishes between right and wrong?
