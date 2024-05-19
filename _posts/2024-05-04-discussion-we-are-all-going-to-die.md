@@ -4,7 +4,7 @@ title: "(WIP) We Are All Going to Die"
 category: discussion
 ---
 
-Simply put, another of my strange post on absurdism, albeit free will is a more interesting topic.
+Simply put, another of my strange post on absurdism, albeit free will is a more interesting topic. From Albert Camus, "for the absurd man, it is not a matter of explaining and solving, but of experiencing and describing. Everything begins with lucid indifference."
 
 # A. Determinism 
 Death is deterministic. Thus, there is a deterministic outcome. However, the process of getting there is probabilistic. Pray tell, what is the chance that one of us get hit by a car tomorrow!
