@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Wacky Word Analysis: Mercy"
-category: wacky word analysis
+title: "Semantics: Mercy"
+category: semantics
 ---
 <!-- Word count: 531 -->
 
