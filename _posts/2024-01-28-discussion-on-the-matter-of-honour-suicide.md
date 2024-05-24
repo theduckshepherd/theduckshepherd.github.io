@@ -66,6 +66,8 @@ Essentially, I only wanted to say that honour suicide, as understandable as it i
 
 I must admit that as a person who greatly lacks tact, I cannot see any importance in honour and reputation since if there are those who truly understand you, then there is always a place for us. Even if our honour or reputation is rock bottom, there is still a place. Even if on Earth we are all alone then Our Heavenly Father would still love us and understand us most. And since His Love is overwhelming, just that is enough.
 
-[honor]: https://dictionary.cambridge.org/dictionary/english/honor
+**Yours truly,<br>
+The Duck Shepherd**
+
 
 [honor]: https://dictionary.cambridge.org/dictionary/english/honor
