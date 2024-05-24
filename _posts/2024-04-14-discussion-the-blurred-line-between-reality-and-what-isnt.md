@@ -50,3 +50,6 @@ In some ways, this is a blessing in disguise. The lack of attachments and the in
 For now, this is enough discussion. All I want to say is that life has never felt very tangible to me. And yet here I am, living in the moment, feeling the emotions as they come and go, being as real as I could ever get. It is absurd for someone who is so detached, while many others struggled either in their past or future. Or perhaps it is more simple: because reality is so overwhelming, they get lost. And for those who are detached, reality becomes a single point of focus, which is the present. 
 
 Many have argued that perception isn't reality, and by this, reality means what actually happened. But to a person, I do believe their perception is their reality alone. I might be so brave as to say that our mind replaces our reality! At least to those who are the least attached and most dissociative. One must imagine that it is nothing but normal to live in the tangible present.
+
+**Yours truly,<br>
+The Duck Shepherd**
