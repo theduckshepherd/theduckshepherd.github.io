@@ -62,3 +62,6 @@ While I can see the logic in how our hopes in humanity can decrease after having
 
 # D. Conclusion
 I expect that each of us has a different answer on the spectrum. Although I at least attempt to maintain an unconditional kindness to others in my heart, even though all I have ever said are words. I doubt that I have ever helped as many people compared to those who claim that kindness is only for those who deserve it, especially since they have helped more people than I did. Actions work better, and even though I might have the right philosophy it doesn't matter if I can't do anything to follow up with it. But hopefully, it helps me navigate life better.
+
+**Yours truly,<br>
+The Duck Shepherd**
