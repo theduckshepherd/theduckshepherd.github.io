@@ -49,4 +49,8 @@ There is no need to shy away from the meaningless, the nothingness. Because of i
 # D. Finale
 Contradictions are a bit of an intellectual challenge of sorts, akin to paradoxes. Even though so many things contradict themselves, including us human beings, we still exist, and the universe still exists. Then, perhaps what we considered contradictory might just be an illusion of our mind, for if they were true paradoxes, they would be unsolvable. In an unsolvable paradox, its premise can never exist in full; otherwise, something must be missing such that the gears remain running for it to coexist. Then, in a world of apparent paradoxes, the absurd lies in the human mind's inability to comprehend the world around them, and perhaps the world is actually not a patchwork but a well-designed machine. 
 
+**Yours truly,<br>
+The Duck Shepherd**
+
 [krishnamurti]: https://kfoundation.org/krishnamurti-the-first-and-last-freedom-on-awareness/
+
