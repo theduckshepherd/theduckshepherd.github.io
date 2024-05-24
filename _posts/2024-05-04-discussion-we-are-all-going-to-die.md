@@ -29,3 +29,7 @@ Perhaps for myself, I do like living for the truth. For the sake of getting to k
 Absurdism grants freedom to a person in that they no longer belongs to the future. That they no longer become bounded to some abstract goal or any form of meaning. There is no longer a need to keep chasing toward a goal. At the same time, the absurdist is bounded to their awareness of the absurd. I dare say men shackles themselves with their own knowledge, for what is learned cannot be unlearned. Even though we stare at the void that is the inherent meaninglessness of the universe and the futility of our actions, we are bounded to keep chasing toward that same unfathomable abyss. But we do so with a passion. A passion to revolt.
 
 When the world is devoid of any absolutes, of any goals to achieve, of any deterministic meanings, then we are truly free. This is what it means to not belong to the future. Men no longer is bounded by some abstract conceptions, but only by their own knowledge and themselves. And yet Albert Camus never spoke much of free will, since indeed, it does not matter. Even if we are bounded to a nihilistic end, we are free to choose within the limited choices we have. Even the concept of "true freedom" contradicts itself in a way that any decision must be made from some sort of "vessels" or "consciousness". Then, such thing is already bounded. Perhaps there is no true freewill that can exist, but only the freedom to choose from the cards on our hands.
+
+**Yours truly,<br>
+The Duck Shepherd**
+
