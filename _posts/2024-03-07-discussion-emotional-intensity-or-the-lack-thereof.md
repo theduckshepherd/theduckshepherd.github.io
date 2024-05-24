@@ -61,6 +61,9 @@ Regardless, I don't think we can ever be enough. Even I myself have the tendency
 ## D. Resolution
 Maybe the challenge here is not the difference between individuals, but more about how in our difficulty to relate to others we have mistakenly imposed our perceptions on others. Our perceptions drive our actions, I believe. Statistically speaking, a census that receives answers from the entire population is bound to be more representative than a survey. So having everyone's input is best. 
 
+**Yours truly,<br>
+The Duck Shepherd**
+
 [reddit_ama]: https://www.reddit.com/r/IAmA/comments/sqgre/i_dont_feel_emotions_i_have_alexithymia_ama/
 [autistica]: https://www.autistica.org.uk/what-is-autism/anxiety-and-autism-hub/alexithymia
 [apathy_def]: https://dictionary.cambridge.org/dictionary/english/apathyc
