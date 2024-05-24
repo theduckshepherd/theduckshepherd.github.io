@@ -11,7 +11,7 @@ In terms of approach, I prefer to maintain objectivity and neutral stance. The E
 
 In case that you would like to contact me, maybe you can open an issue on this repository on GitHub. Something like that since I don't like sharing email addresses much. Sorry.
 
-The GitHub page for this website is https://github.com/urlocalmemer/urlocalmemer.github.io
+The GitHub page for this website is https://github.com/theduckshepherd/theduckshepherd.github.io
 
 Credit goes to Barry Clark for the template of this webpage, his repository Jekyll Now has been very helpful for someone who is barely able to use Git like me.
 https://github.com/barryclark/jekyll-now
