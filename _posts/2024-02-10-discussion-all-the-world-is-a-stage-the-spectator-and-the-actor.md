@@ -80,4 +80,7 @@ However, all these instances seem to lack an opportunity for us to see ourselves
 
 Perhaps being mindful and aware of ourselves is the key, but to do we most likely would need to detach ourselves from our roles both on the stage and in the audience seat. At all points in our lives, we both act for ourselves and spectate others. We are both the actors and the spectators. However, by detaching ourselves from these titles, we may truly be able to reflect and observe our experiences, thoughts, and emotions, to obtain a better understanding of ourselves and those around us. And by doing so, we may be able to become more compassionate with each other.
 
+**Yours truly,<br>
+The Duck Shepherd**
+
 [self-as-context]: https://en.wikipedia.org/wiki/Self-as-context
