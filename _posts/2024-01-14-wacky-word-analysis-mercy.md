@@ -32,4 +32,7 @@ In layman's terms, Kafka’s father could be said to have had mercy on Kafka des
 ## C. Conclusion
 Therefore, instead of having mercy on each other, let us be compassionate and humble ourselves a little. In no way do helping people put us in a higher position than the helped.
 
+**Yours truly,<br>
+The Duck Shepherd**
+
 [definition]: https://dictionary.cambridge.org/dictionary/english/mercy
