@@ -33,3 +33,7 @@ For a particularly specific example, I may say that parents would teach their ch
 
 # D. Finale
 Truth be told, I might have repeated myself a bit too often. This post is shorter since I haven't gotten much idea for it. That being said, I believe objectivity is always the key to remaining rational. It is always a balance to do what's right and to hold ourselves back from enforcing any form of idea too much that it becomes dangerous. That being said, religion does give a moral pedestal that could make someone's words non-negotiable in many ways. Of course, this also depends on the person, but at least I would say that there is a fine line to tread.
+
+**Yours truly,<br>
+The Duck Shepherd**
+
