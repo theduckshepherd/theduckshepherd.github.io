@@ -83,3 +83,6 @@ It has been looping like that for a while now. Most scripts involve an imaginary
 First, I can only say that I am very grateful for this imaginative mind of mine. It made everything so real, warm and happy, even if I might sound like a delusional child getting lost in their own head. Admittedly, I was like that as a kid, but what's wrong with daydreaming? I think a lot of things in the world come to be from the mind, more specifically a simple vision in someone's mind halfway across the world. Or maybe it is just my autistic self-speaking.
 
 I might also say that sometimes we don't know ourselves, or we are detached from our nature and become misguided. I never have thought about my own tendencies in this way, although upon reflection I could tell that even in my childhood I have always been able to do that, immersing myself in anything. Perhaps by analysing our own experiences and ways of thinking, objectively without judgement but instead regarding it as a fact of what has happened, we can discern our characteristics and our ways of life. And perhaps, even our own philosophy in how we navigate it. 
+
+**Yours truly,<br>
+The Duck Shepherd**
