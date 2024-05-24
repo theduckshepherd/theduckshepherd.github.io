@@ -90,4 +90,7 @@ I must say that the answer here is still 'it depends', since the question itself
 
 And furthermore, a question that does not give the questionee freedom of expression should not be asked at all. Not to mention the presented dilemma fit not even for rhetorical purposes.
 
+**Yours truly,<br>
+The Duck Shepherd**
+
 [false-dilemma]: https://www.scribbr.com/fallacies/false-dilemma-fallacy/
