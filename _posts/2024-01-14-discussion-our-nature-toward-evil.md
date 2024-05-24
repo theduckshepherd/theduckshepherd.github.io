@@ -110,6 +110,9 @@ Too many problems come from the lack of acknowledgement. This is difficult for m
 - Because we are not perfect, the extremity is to be carefully treaded to, again, avoid the occasions of sins. 
 
 - In rejecting sins, we are likely to reject the sinners. Let us acknowledge that we are all equal, and welcome others toward repentance, not isolation and dismissal.
+- 
+**Yours truly,<br>
+The Duck Shepherd**
 
 [penance]: https://dictionary.cambridge.org/dictionary/english/penance
 [deny]: https://dictionary.cambridge.org/dictionary/english/deny
