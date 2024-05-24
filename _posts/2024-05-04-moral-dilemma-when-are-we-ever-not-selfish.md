@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(WIP) Moral Dilemma: When Are We Ever Not Selfish?"
-category: Discussion
+category: moral dilemma
 ---
 
 On the concept of omnipotent responsibility guilt, which also has to do with control mastery theory. I'm not well versed with psychology, so this can be considered an instropection or investigation the idea itself.
