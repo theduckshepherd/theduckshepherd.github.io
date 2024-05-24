@@ -106,4 +106,7 @@ God did tell us to love our neighbour and enemies anyway (Matthew 5:43-48 NIV). 
 
 ![alt text][he-did-not-stutter]
 
+**Yours truly,<br>
+The Duck Shepherd**
+
 [he-did-not-stutter]: https://raw.githubusercontent.com/urlocalmemer/urlocalmemer.github.io/master/images/he-did-not-stutter.jpg "He did not stutter"
