@@ -35,4 +35,5 @@ Back to the main conversation,
 
 **Yours truly<br>
 The Duck Shepherd**
+
 [study1]: https://onlinelibrary.wiley.com/doi/10.1111/sjop.12854
