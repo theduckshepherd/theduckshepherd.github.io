@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Wacky Word Analysis: Deserve"
-category: wacky word analysis
+title: "Semantics: Deserve"
+category: semantics
 ---
 <!-- Word count: 1,875 -->
 Nerd time, so to speak.
