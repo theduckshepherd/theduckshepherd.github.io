@@ -90,5 +90,8 @@ Although we have no hope in our own meaning to the universe, we can trust that s
 
 But the fact that I place so little value in my fate after death might as well make me an atheist. But since it's God's job to judge us later, I'll just leave it entirely in his hands and mind other business. After all, I believe that universally, we would be happy to see others happy, and if we are not, it simply means that we seek to be as happy as others. The fact that humanity universally seeks what is good through thousands of years of history is impressive, and from a religious point of view, probably because we were made in God's image of goodness.
 
+**Yours truly,<br>
+The Duck Shepherd**
+
 [sisyphus]: https://www2.hawaii.edu/~freeman/courses/phil360/16.%20Myth%20of%20Sisyphus.pdf
 [exurb1a]: https://www.youtube.com/watch?v=Jv79l1b-eoI
