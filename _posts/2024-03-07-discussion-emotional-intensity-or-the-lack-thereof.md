@@ -21,6 +21,10 @@ Another condition that is more common in autistic individuals: prosopagnosia (fa
 
 Although it is not exactly related, but I struggle with music. At least, I can't tell the minute difference between notes, but otherwise I can tell if something sounds different from what I hear previously. Apparently from this research (https://doi.org/10.1002/aur.2569), autistic individuals do struggle with absolute pitch and duration matching, but not so bad with relative pitch, which seems to focus more on the differences between notes in transitioning. Either way, I was told that I'm always off when singing, so perhaps I am tone deaf to some degrees.
 
+And dyspraxia. We are generally clumsy, and I do notice how I seem to misjudge distance. Sometimes I reach out for objects and they are just a bit away from my fingertips, making me fumble badly with my fingers before reaching further to grab it. Always bump into things sometimes, because I couldn't judge the distance of objects around me as I move. Reddit isn't a good source, but there are some listed [here][dyspraxia] that can give a bit of a hint. I do not want to self-diagnose, either way. Well, I met like 90% of the list too. 
+
+And hyposensitivity. To some degrees, dyspraxia is linked to proprioceptive hyposensitivity (sense of spatial awareness). Or in taste, or just my lack of culinary experience. I can't really distinguish how different things mix together to give a certain taste. Olfactory hyposensitivity, my nose is very bad with smells. Couldn't tell if something smell bad, most of the time. And tactile hyposensitivity, which I think has more to do with me picking the skins on my fingertips (almost compulsively) as a kid. I think it might have dulled them, making touches less intense. I prefer to feel things with my fingerpads, and just love touching stuff to know what it feels like. Stuffed animals are also the best, a delight for me to cuddle with. I rubbed them on my cheeks and just like feeling the fur on my fingerpads, in general. 
+
 Unfortunately, we have certain traits that others won't understand about us. Misunderstandings are common.
 
 Still, I believe it is what allowed me to be a funny person. I have heard that autistic people are more funny than others.
@@ -64,6 +68,7 @@ Maybe the challenge here is not the difference between individuals, but more abo
 **Yours truly,<br>
 The Duck Shepherd**
 
+[dyspraxia]: https://www.reddit.com/r/dyspraxia/comments/gs3nfc/a_list_of_symptoms_people_dont_talk_about_enough/
 [reddit_ama]: https://www.reddit.com/r/IAmA/comments/sqgre/i_dont_feel_emotions_i_have_alexithymia_ama/
 [autistica]: https://www.autistica.org.uk/what-is-autism/anxiety-and-autism-hub/alexithymia
 [apathy_def]: https://dictionary.cambridge.org/dictionary/english/apathyc
