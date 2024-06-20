@@ -25,6 +25,8 @@ And dyspraxia. We are generally clumsy, and I do notice how I seem to misjudge d
 
 And hyposensitivity. To some degrees, dyspraxia is linked to proprioceptive hyposensitivity (sense of spatial awareness). Or in taste, or just my lack of culinary experience. I can't really distinguish how different things mix together to give a certain taste. Olfactory hyposensitivity, my nose is very bad with smells. Couldn't tell if something smell bad, most of the time. And tactile hyposensitivity, which I think has more to do with me picking the skins on my fingertips (almost compulsively) as a kid. I think it might have dulled them, making touches less intense. I prefer to feel things with my fingerpads, and just love touching stuff to know what it feels like. Stuffed animals are also the best, a delight for me to cuddle with. I rubbed them on my cheeks and just like feeling the fur on my fingerpads, in general. 
 
+Couldn't stand still either. Always fidgeting, moving between legs when standing, moving my body a little, moving my arms, fidgeting with my fingers, just couldn't stand still at all. And sometimes spin in chairs a bit too much at the office.
+
 Unfortunately, we have certain traits that others won't understand about us. Misunderstandings are common.
 
 Still, I believe it is what allowed me to be a funny person. I have heard that autistic people are more funny than others.
