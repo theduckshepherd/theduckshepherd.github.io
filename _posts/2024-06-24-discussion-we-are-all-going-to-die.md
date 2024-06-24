@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(WIP) We Are All Going to Die"
+title: "We Are All Going to Die"
 category: discussion
 ---
 
@@ -44,7 +44,7 @@ Absurdism grants freedom to a person in that they no longer belong to the future
 When the world is devoid of any absolutes, of any goals to achieve, or of any deterministic meanings, then we are truly free. This is what it means to not belong to the future. Men are no longer bound by some abstract conceptions, but only by their own knowledge and themselves. And yet Albert Camus never spoke much of free will, since, indeed, it does not matter. Even if we are bound to a nihilistic end, we are free to choose within the limited choices we have. Even the concept of "true freedom" contradicts itself in the sense that any decision must be made from some sort of "vessel" or "consciousness." Then, such things are already bound. Perhaps there is no true free will that can exist, but only the freedom to choose from the cards in our hands.
 
 # D. Finale
-It was a pointless discussion, really, over whether we have free will or not. Because in the end, we could not know, and does it even matter? It seems that we can choose what happens now. And as long as it seems like we have some choices, it's already enough. Even if we know we might just be puppets moved by the strings or not, what matters is our own realities. That is how our world is shaped. And as long as, in that world, we have free will, it is enough. Any possible differences could not be distinguished clearly, so why not enjoy it while it lasts?
+It was a pointless discussion, really, over whether we have free will or not. Because in the end, we could not know, and does it even matter? It seems that we can choose what happens now. And as long as it seems like we have some choices, it's already enough. Even if we know we might just be puppets moved by the strings or not, what matters is our own realities. That is how our world is shaped. And as long as, in that world, we have free will, it is enough. Any possible differences could not be distinguished clearly, so why not enjoy it while it lasts? We really are all going to die anyway.
 
 **Yours truly,<br>
 The Duck Shepherd**
