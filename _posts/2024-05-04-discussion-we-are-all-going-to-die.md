@@ -6,20 +6,29 @@ category: discussion
 
 Simply put, another of my strange post on absurdism, albeit free will is a more interesting topic. From Albert Camus, "for the absurd man, it is not a matter of explaining and solving, but of experiencing and describing. Everything begins with lucid indifference."
 
-A time to take on the difference beween existentialism and absurdism, perhaps?
+A time to take on the difference beween existentialism and absurdism, perhaps? And an odd take on free will, which is vastly irrelevant to human society but relevant as a dissection of words. The studies of semantics, rather than the idea of free will.
+
+Maybe even this title is misleading.
 
 # A. Determinism 
 Death is deterministic. Thus, there is a deterministic outcome. However, the process of getting there is probabilistic. Pray tell, what is the chance that one of us get hit by a car tomorrow! Anyway, I would rather that not happening. Too much things I would miss out on. In fact, I might die before humanity invent interstellar space travels or wormholes. 
 
+There is a question over whether what we do is truly free will. Is it a chemical process in our cells that will inevitably lead to a certain conclusion, or do we really have a choice? How do we know our chosen action is not already predetermined? That seems to contradict how we see the world, given that we always feel a certain sense of control over our immediate actions. The decisions to move your hand a certain way to pick up a cup, for example. It is impressive, is it not? Free will seems to require a consciousness.
 
-# Existentialism.
+What actions can be considered to stem from free will? Most of the time, free will tends to imply that we do as we want, independent of others' influences. Even then, our actions are then bounded to our own interests. Free to us, but objectively still shackled, I believe. However, that is the definition of free will, as a phrase. Free will must allow for us to be held accountable for our actions. As individual words, "free" in "free will" perhaps means to be independent. Then perhaps a more daring move is to act without being influenced by our own thought. Randomness, or perhaps entropy. Regardless of the answer, it loses significant since it is no longer relevant to us.
+
+All living beings have survival instincts. Actions being bounded to this instincts, even lacking conscious thoughts, could it be considered free will too? Perhaps not, for free will requires a "will", a conscious thought. But a will cannot be free, for it is bounded to whatever that it originates from. As two words connected together, "free will" is contradictory, because one is trying to attribute the characteristic of freedom to something that cannot be free.
+
+Must this "free will" be able to defy all things to be truly free? Then, it must overcome death and destruction.
+
+# B. Existentialism.
 Existentialism considers it an essence for ones to create meaning in their life, being aware of the fact that there is no objective meaning. Through that, the creation of meaning becomes a need. The emphasis is placed on the individual being a free and responsible agent. I felt that existentialism displays itself through the act of persistence, continually moving through the absurd. And yet, they seem irrational in that the person becomes _compelled_ to find meaning. Because it is such an essence of the philosophy that it seems a human could not live if just for a second that their life holds meanings no longer. Perhaps it is presumptous of me, but such a person, despite claiming of the inherent nothingness of the universe, they refused to accept or face it. To me, existentialism exists as a form of denial through human's futile attempts at trying to be a significant part of the universe. 
 
 Whether a person consciously deny it because they would not accept a world of nothingness, or if they unconsciously do so because of their inhrent attraction toward meanings, it really is all the same. In creating our meaning, we are imposing meanings onto the world. For myself, I believe in that there is much value in the purity of existence itself. That is, existence of the universe and its absurdity exactly as they are, nothing more and nothing less. Simply its most undisguised form has much to offer.
 
 Through that, we start to embrace. That is absurdism.
 
-# Absurdism
+# C. Absurdism
 For some reasons, there is a certain charm to absurdism and in what it focuses on. Absurdism focuses simply in embracing the absurd. In accepting the truth for what it is and decided to live it anyway. To live in the truth, and to constantly acknowledging the truth that is our constant awareness of the absurd in our lives. To live in reality in its purest form, in all its essence. Suddenly, it all becomes more colorful.
 
 Absurdism is just that, the realisation of the absurd. There is no other ideologies attached. But I myself believe that to see the absurd is to also accept and recognise the truth of the universe. Because it is an essential part to stare into the void and acknowledge its existence to realise just how large the gaps between men and everything else.
