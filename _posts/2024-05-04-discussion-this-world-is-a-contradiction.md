@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This World is a Contradiction"
+title: "Discussion: This World is a Contradiction"
 category: discussion
 ---
 <!-- Words count: 2,693 -->
