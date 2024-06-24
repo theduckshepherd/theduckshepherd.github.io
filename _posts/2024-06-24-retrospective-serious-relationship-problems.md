@@ -23,3 +23,11 @@ But it does feel a bit lonely. In the end, I'm just a human like others. I proba
 Maybe I'm just that awkward. Feels a bit lonely when I ended up sort myself out all by myself. It's only natural, because the only case where I have to do it myself is when it can no longer be salvaged. But then, it sounds stupid to take in everything by myself. And sad too. I would appreciate an understanding companion. It just sound like I have to do it because no one else is around.
 
 Or maybe this is a trap I'm putting myself in.
+
+It really is a precious thing to hear parents asking you how your day has been going. Siblings work, but parents are different. One of them don't really ask, since we are on bad terms with each other. And that person believes I'm only here because of their mercy, letting me be here. Because they think I'm lesser, I'm not worth understanding. They don't care. In the end, I have to do it myself.
+
+It's sad being misunderstood, is it not. But since I already accept it, I could no longer pull back on it. How unfortunate. But it is something I'll probably never change. Doing this means trusting others to act the same as I do. Trusting that someone would understand. And that was one of my visions for an ideal world. That we can trust in each other's kindness. It hurts only because the world is not ideal. But one person is better than none. Maybe out of a ton of people out there, one will see the difference and treat me in a similar manner.
+
+Well, I already have understanding friends. So it's not all that bad. Everyone is just flawed, so I can be understanding for both my family and everyone else. That really just brings back to the original problem, doesn't it. How absurd.
+
+**The Duck Shepherd**
