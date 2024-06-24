@@ -25,7 +25,7 @@ Must this "free will" be able to defy all things to be truly free? Then, it must
 
 Either way, this discussion over the semantics of "free will" is somewhat pointless.
 
-# B. Existentialism.
+# B. Existentialism
 Existentialism considers it an essence for one to create meaning in their life, being aware of the fact that there is no objective meaning. Through that, the creation of meaning becomes a need. The emphasis is placed on the individual being a free and responsible agent. I felt that existentialism displays itself through the act of persistence, continually moving through the absurd. And yet, they seem irrational in that the person becomes compelled to find meaning. Because it is such an essence of the philosophy that it seems a human could not live if, just for a second, their life holds meaning no longer. Perhaps it is presumptuous of me, but such a person, despite claiming the inherent nothingness of the universe, refused to accept or face it. To me, existentialism exists as a form of denial through humans's futile attempts at trying to be a significant part of the universe. 
 
 Whether a person consciously denies it because they would not accept a world of nothingness or if they unconsciously do so because of their inherent attraction towards meanings, it really is all the same. In creating our meaning, we are imposing meanings on the world. For myself, I believe that there is much value in the purity of existence itself. That is, the existence of the universe and its absurdity exactly as they are—nothing more and nothing less. Simply its most undisguised form has much to offer.
