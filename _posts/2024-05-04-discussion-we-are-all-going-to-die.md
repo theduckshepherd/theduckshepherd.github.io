@@ -19,7 +19,9 @@ What actions can be considered to stem from free will? Most of the time, free wi
 
 All living beings have survival instincts. Actions being bounded to this instincts, even lacking conscious thoughts, could it be considered free will too? Perhaps not, for free will requires a "will", a conscious thought. But a will cannot be free, for it is bounded to whatever that it originates from. As two words connected together, "free will" is contradictory, because one is trying to attribute the characteristic of freedom to something that cannot be free.
 
-Must this "free will" be able to defy all things to be truly free? Then, it must overcome death and destruction.
+Must this "free will" be able to defy all things to be truly free? Then, it must overcome death and destruction. Then will it qualify as a living being? Because without being a living entity, I can't imagine it having a will.
+
+Either way, this discussion over the semantics of "free will" is somewhat pointless.
 
 # B. Existentialism.
 Existentialism considers it an essence for ones to create meaning in their life, being aware of the fact that there is no objective meaning. Through that, the creation of meaning becomes a need. The emphasis is placed on the individual being a free and responsible agent. I felt that existentialism displays itself through the act of persistence, continually moving through the absurd. And yet, they seem irrational in that the person becomes _compelled_ to find meaning. Because it is such an essence of the philosophy that it seems a human could not live if just for a second that their life holds meanings no longer. Perhaps it is presumptous of me, but such a person, despite claiming of the inherent nothingness of the universe, they refused to accept or face it. To me, existentialism exists as a form of denial through human's futile attempts at trying to be a significant part of the universe. 
