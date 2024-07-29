@@ -4,7 +4,7 @@ title: "We Are All Going to Die"
 category: discussion
 ---
 
-<!-- Word count: 1344 -->
+<!-- Word count: 1498 -->
 
 Simply put, another of my strange posts on absurdism, albeit free will, is a more interesting topic. From Albert Camus, "for the absurd man, it is not a matter of explaining and solving, but of experiencing and describing. Everything begins with lucid indifference."
 
@@ -16,6 +16,8 @@ Maybe even this title is misleading.
 Death is deterministic. Thus, there is a deterministic outcome. However, the process of getting there is probabilistic. Pray tell, what is the chance that one of us gets hit by a car tomorrow? Anyway, I would rather that not happen. There are too many things I would miss out on. In fact, I might die before humanity invents interstellar space travel or wormholes. 
 
 There is a question over whether what we do is truly free will. Is it a chemical process in our cells that will inevitably lead to a certain conclusion, or do we really have a choice? How do we know our chosen action is not already predetermined? That seems to contradict how we see the world, given that we always feel a certain sense of control over our immediate actions. The decision to move your hand a certain way to pick up a cup, for example, It is impressive, is it not? Free will seems to require a consciousness.
+
+[Laplace's demon][laplace] assumes a deterministic universe. "If someone (the demon) knows the precise location and momentum of every atom in the universe, their past and future values for any given time are entailed; they can be calculated from the laws of classical mechanics." Still, that is assuming that every combination of the variables produces only one result and not two or three. Perhaps an equation can yield not just one future but a set of futures. And maybe in that very same equation, there exists a random magic number that could change the entire calculation result. Assuming this magic number cannot be derived from the current states of every atom in the universe, then this very number represents the non-deterministic parts of the universe. And perhaps it is our choice that is non-deterministic. From our perspective, maybe it is our free will, our choices, that is the untracable variable in this supposedly deterministic equation.
 
 What actions can be considered to stem from free will? Most of the time, free will tends to imply that we do as we want, independent of others' influences. Even then, our actions are bounded by our own interests. Free to us, but objectively still shackled, I believe. However, that is the definition of free will as a phrase. Free will must allow for us to be held accountable for our actions. As individual words, "free" in "free will" perhaps means to be independent. Then perhaps a more daring move is to act without being influenced by our own thoughts. Randomness, or perhaps entropy. Regardless of the answer, it loses significance since it is no longer relevant to us.
 
@@ -48,3 +50,5 @@ It was a pointless discussion, really, over whether we have free will or not. Be
 
 **Yours truly,<br>
 The Duck Shepherd**
+
+[laplace]: https://en.wikipedia.org/wiki/Laplace%27s_demon
