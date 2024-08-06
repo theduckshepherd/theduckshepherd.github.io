@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Discussion: Fairness and What is True"
+category: discussion
+---
+<!-- Word count: 1675 words -->
+
+Inherently, we all want to be treated fairly. Something that isn't fair for us is a red flag that must be addressed. What about fairness for all?
+
+# A. Fairness, What It Implies
+Fairness is a subjective concept, for the most part. However, we can grasp a sense of what the term means through the way it is expected of others. A judge is expected to be fair, that is, impartial. A teacher is expected to be fair, that is, no favoritism. In a relationship, fairness may imply reciprocation. Typically, fairness implies "equal treatments for both parties.".
+
+Think of scale. If one side gets more and one side gets less, that is imbalanced. The scale must be restored so both sides are at equal levels. Justice is commonly compared to the symbolism of a scale. But in a complex sense, fairness doesn't only imply 'being equal'. Equality assumes everyone benefits from the same support. Equity makes sure that everyone gets the right support to ensure equal access. Justice, not pertaining to its definition in the court of law, ensures that the original inequity is addressed so that everyone has equal access without needing support. The systematic barrier is removed.
+
+The above is probably something people have heard of before. As an example, let's say that we have a "women association" for a lot of things to advocate for women. I don't deny that in the past, men had been heavily favoured, and only recently do women get to vote or have the same rights that men do. Although the effort to give women the fairness that they deserve is much appreciated, the issue of gender should never have been a problem to begin with. Gender should never have been a reason for discrimination. But our society is just that good at discriminating against others for whatever reasons, be it by race, heritage, heights, skin colour, beliefs, hobbies, etc. Humans are good at judging others; that's it.
+
+# B. Fairness is to be Neutral
+I imagine that to actually understand fairness, all of us, including me, would have to look into the very foundations of our social norms, about what should be neutral and what shouldn't be. Sometimes, we unconsciously make stereotypes of a certain group, and that already puts us into a biassed position. In this sense, I'm speaking of fairness as thinking in an impartial manner and acting in a similarly impartial manner. 
+
+Most importantly, a person's human rights and their safety stand before everything else that we constitute as fairness. Even if the "an eye for an eye" rule seems fair, it is inherently unhealthy in that it creates a vicious cycle of taking revenge back and forth. And in doing so, I believe that we have already threatened a person's security, all the while knowing that everyone is [entitled to life, liberty, and security of person] [universal_declaration]. Of course, a person is to be given their due for what they have done, no more, no less. If any more, it is an act of generosity. If any less, we are to appreciate it anyway, and if needed, seek to collect our due without being petty. We should all treat each other in the spirit of brotherhood. 
+
+If a person commits a crime, they are to be given their punishment as per the law and be given the support needed to make a recovery and welcomed back into society. In a perfect, ideal universe, everyone would be supportive of each other so that no one has to stray so far as to commit mortal sins or the kinds of actions that would impact others' livelihood. In such a world, even if a crime is committed, I hope that person will be forgiven eventually, out of our generosity. Even if we were the victims, we should not simply amplify our own sufferings and impose harsher punishments on the perpetrator. That kind of neutrality or kindness should always come out on top. 
+
+Likewise, in an argument, we are to acknowledge both sides of the argument. To be neutral, we must know the facts and acknowledge them. Denial already is a bias in itself that is difficult to fix. Because we will no longer reason with our mind but with our emotions. And although emotions and feelings are not wrong, they should not overwhelm us or lead us towards making irrational decisions. Sometimes we will slip up, but admittedly many of the world's miseries come from anger, hatred, desire for revenge, greed, ego, and our tendencies to discriminate or look down on others. I believe they are all human feelings. War, crimes, corruption—I believe they sprout forth from the human hearts. Because negative feelings are all too proficient at creating a spiral feedback loop that only keeps feeding into our feelings. Truly, people think with their feelings sometimes. And they could be the most passionate person ever. Or they could also be the most stubborn person ever. Because I think that somewhere we want to protect our ego and feelings. By that, we willingly take on a position that is no longer neutral.
+
+# C. Fairness through the Expression of Logic, Derived from Truth
+Although there might be differences in how 'fairness' can be attained, I believe it should be done through logic, that is, the ways in which conclusions are arrived. Everything there is to do with logic has to do with the original basis that it stemmed from. A flawed basis is tantamount to the irrational. A logical process infected with fallacies is also nonsense. I say this because, more often than not, an emotion-based argument can never be truly argued logically, for it is too easy for such a basis to generate fallacies based on the human's subjective experience. However, to begin with a neutral basis that is commonly accepted to be morally right fits for a more stable logical foundation. Emotions should definitely be factored in the conversation, but any arguments that follow in that conversation must flow logically.
+
+Good logic, I believe, must come from truth. Truth includes both facts and beliefs, with the latter more difficult to prove. But what makes it the truth?
+
+Even many of our foundational principles or human rights, perhaps, came from our intuitions. If I am to do a religious take, then it's also the presence of God and His guidance. Fundamentally, the cold and indifferent universe does not tell us how to treat each other. Some simply come from instincts, like how a mother would love her children as part of an evolutionary response (I'm talking generally, counting animals as well as humans). But I believe that any living beings come to be aware of the fact that if we treat others nicely, they would likely do the same for us. In other words, do to others what you would have them do to you. Which really is what Jesus taught us in Matthew (7:12). But other than that, we can see the rule does work out. 
+
+Everything that we consider to be a foundational principle—social norms, standards—really meant nothing to the universe. All of them are human constructs if we do not consider any religious factors. And in fact, social norms are mostly human constructs too. Our brain is extraordinarily great at reasoning, and it just so happens that we can reason a great many things based on few facts alone. We are just that intelligent. However, the questions lie on whether the facts are true or not. There's a reason why propaganda works, or why it's possible to brainwash someone. Because once a fact has been implanted as a truth, a person's reasoning will simply be limited to that which derives from that truth. For example, the North Koreans believe as a fact that their glorious leaders were born on Mount Pektu (or so I remember) and that they had supernatural abilities (they don't). But hey, to them, it's facts. 
+
+To us, those facts are wrong compared to our modern human rights. 'Wrong' as an adjective exists because there is a comparison. I believe that all adjectives have opposite terms for them. For example, simply adding a 'not' in front of the adjective turns the phrase into an opposite meaning. The fact that such pairs exist is because of comparison. 
+
+So, if we believe our human rights and our foundational beliefs, everything we believe to be true is right. Right, compared to what? Just through this do we realise what we thought was concrete, was an unarguable truth, is not concrete at all. It is not based on an unyielding foundation but on the fragility of human society. If we all suddenly disappear, does our 'truth' matter anymore? To the universe, it is no longer truth but just a statement. An indifferent statement. But to us, it is everything we stand for. And that's alright.
+
+For the mean-spirited people, kindness is wrong. Kindness isn't truth to those who want to harm others. But since we all have an innate desire to be happy and at peace, the desire to make us feel good, then it no longer matters what is the truth in how we should act. As long as what we do contributes to the happiness of others and ours, that is our truth. And human society is built on collective beliefs and truths like that. It becomes the foundation of our societies. And as long as we go along that path, we will never be too dissatisfied. This, precisely, becomes the basis for our arguments, our logic core. The thing that maintains fairness.
+
+Then, the only next thing we should be concerned about in this matter is to avoid logical fallacies. And to avoid biases that only fuel our desire and egos. 
+
+# D. Finale
+Since we all look for peace and fairness, I think the most we can do is to be kind and to be fair to others with a critical mind. Admittedly, I can be unfair and uncompromising at times too. But it's something we work towards. 
+
+**Yours truly,<br>
+The Duck Shepherd**
+
+[universal_declaration]:https://www.un.org/en/about-us/universal-declaration-of-human-rights
