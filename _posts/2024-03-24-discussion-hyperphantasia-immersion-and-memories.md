@@ -7,8 +7,10 @@ category: Discussion
 
 A quick work on how the experience of reality and imagination could be one and the same perspective. Or simply a dive deep into how my mind works. I think there is a benefit in this kind of introspection, as the way I visualise has indeed affected my way of life, mostly positively.
 
-# A. The Unrealistic yet Realistic Nature of Imagination, or as I Dare Say, Hyperphantasia
-Imagination. Something that all of us have. Although for some it is more realistic than others, to the point of being lifelike. They call it hyperphantasia, which, I would claim to say is one of my characteristics, where my imaginations work like a projector on top of reality. The mind imagines with all bodily senses, even something as intangible as the brief gust of wind on my skin.
+# A. The Unrealistic yet Realistic Nature of Imagination, or Hyperphantasia
+Imagination. Something that all of us have. Although for some it is more realistic than others, to the point of being lifelike. They call it hyperphantasia, which, I would claim to say is one of my characteristics, where my imaginations work like a projector on top of reality. I think the definition only applies to the spatial senses though. But I like the idea that the mind imagines with all bodily senses, even something as intangible as the brief gust of wind on my skin.
+
+Unfortunately, I can only imagine with the senses of sight and touch. I have never been able to imagine the flavours of a cake, or the smell of a roasting chicken. I can't imagine sound at all, because I would just be reading to myself. By that, I meant that I would never be able to imagine an impactful explosion including all the noises that come with it, but I'll be able to imagine the scenes and possibly the feeling of my skin tearing away due to impact. That's a two out of five. Coincidentally, those are the senses I'm most sensitive with. My brain almost entirely relies on sight to remember events, and I am picky about physical touches.
 
 On the one hand, I am extremely thankful for this ability since it made reading or watching fiction much more enjoyable and immersive at the same time I felt that it had a big influence on how I think and how I behave. As a kid, I daydreamed a lot, but for any child, it would be natural since it might just be one of the slightly more embarrassing periods of their lives.
 
