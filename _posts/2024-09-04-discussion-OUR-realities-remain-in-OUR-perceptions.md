@@ -3,15 +3,12 @@ layout: post
 title: "(WIP) OUR realities remain in OUR perceptions"
 category: discussion
 ---
-about how your reality is basically your peception. It doesn't matter what the world actually is, because without knowing it or seeing evidence of it, it is just idea. Even then, any form of evidence is subjected to our own interpretations. But regardless the existence of evidence means the same 'reality' exists for others and not just yourself. That's what being real is defined as.
+About how your reality is basically your perception. It doesn’t matter what the world actually is independently — what Kant calls the noumenal world (thing-in-itself) — because without perceiving it, it exists only as an idea. Any form of evidence we encounter is interpreted by our minds, forming what Kant calls the phenomenal world (things as they appear to us). Regardless, the existence of evidence signals a shared reality for others — what philosophers term intersubjectivity (Husserl, Ideas Pertaining to a Pure Phenomenology, 1913). That’s what “being real” is defined as.
 
+I could be speaking about Brazil football. To me, it remains just a concept until I interact with it; like fictional worlds, it exists only in my thinking. When I see evidence — photos, videos, news — I acknowledge that it exists somewhere in a shared reality. If I go there, I can interact with it physically, and it becomes part of my lived experience.
 
-I could be speaking about the brazil football. But like it's just as surface as anything fictional from a book. Because to me I have never interacted and it remains a concept in your thinking than something interactible. But if I see evidence or photos of Brazil football, I acknowledge that it exists somewhere. And if I go there, I can touch it and interact with it.
+Anything fictional that I invest in emotionally is real to me, though not to others — a phenomenon related to subjective reality (Schutz, The Phenomenology of the Social World, 1932). My vivid imagination may bias me, but emotional engagement makes it meaningful.
 
-In fact anything fictional that you invest yourself in emotionally is just as real, but only to yourself. Although I could be biased due to my vivid imagination. 
+Social media is an obvious example of a “bubble,” but this extends to all aspects of perception. Anything inside the bubble is “real” to us; anything outside remains an abstract idea. Jean Baudrillard (Simulacra and Simulation, 1981) called this hyperreality, where representations can feel as real as or more real than actual events.
 
-Social media bubble. I know is within that bubble. But extend that to our present and not just social media anything within the bubble is "real" and "exist", doesn't mattef if it exist for others. ANd likewise anything outside of the bubbles remain as ideas
-
-Without your brain your reality doesn't even exist for "you" (not in realtion to others in your life). But you still exist for others.
-
-Then, we can change our way of thinkings and by extension, change OUR realities. Not the realities that everyone see and interpret, but OURS.
+Without your brain, your personal reality doesn’t exist for you, though it may exist for others. By changing how we think, we can alter our own phenomenal reality — not the shared reality everyone interprets, but our subjective experience of it (cf. cognitive reframing in modern psychology).
